@@ -28,7 +28,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/crossbario/autobahn-js.git"
+        "url": "git@github.com:thesnews/autobahn-cep.git"
     },
     "keywords": [
         "WAMP",
